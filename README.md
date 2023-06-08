@@ -46,7 +46,7 @@ Graph showing different number of jobs by each technology across various selecte
 Graph showing Top 10 databases  currently in use![](IMAGES/Top10DatabasesCurrent.jpg)
 
 Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
-### key take ways from the graph above
+### key take aways from the graph above
 - MySQL most popular
 - Behind is Microsoft SQL
 - MongoDB and Redis are upcoming favorites
