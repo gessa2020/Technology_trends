@@ -9,7 +9,7 @@ This project aim is therefore to carry out technology trend analysis which will 
 __what are the skill requirements for future?__
 __What are the top programming languages in demand?__
 __What are the top database skills in demand?__
-![image](https://github.com/gessa2020/Technology_trends/assets/52911013/4dcc9eea-baf2-4980-b2a7-c1344de8e672)
+
 
  
  
