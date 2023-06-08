@@ -9,19 +9,12 @@ This project aim is therefore to carry out technology trend analysis which will 
 1. __What are the skill requirements for future?__
 2. __What are the top programming languages in demand?__
 3. __What are the top database skills in demand?__
-
-##  Problem statement 
-__How can we segment our customer base to improve cross-selling opportunities?__
-
  
  
-<h4>Workflow</h4>
-From the historical data, we will first train a machine learning clustering  model on customer profile variables to come up with target groups also known as clusters, there after, we will then train a classification model that can predict which cluster a customer belongs to so as to tailor specific products to the client depending on the charactistics of the cluster.
-
 ## Skills demonstrated.
-- Python was used for coding the project together with some data science algorithms as seen in the notebook
-- I used jupyter notebooks as the main IDE for coding
-- I used Visual Studio code to develop and deploy the streamlit application
+- I used python for web scrapping and data retrival from api
+- I used jupyter notebooks and vscode as IDE for the project
+- I used IBM Cognos dashboard tool for visualization.
 
 ## Data sourcing
 I just wanted to get my hands dirty with customer segmentation, so i went to kaggle.com and and got my hands on to this  <a href="https://www.kaggle.com/datasets/sidharth178/customer-segmentation">Dataset</a> so as to practice my skills. 
