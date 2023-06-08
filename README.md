@@ -1,5 +1,5 @@
 # Technology Trends Analysis
-## A project to analyze technology trends using data obtained from APIs, Web Scraping and Survey data
+## A project to analyze technology trends using data obtained from an API, Web Scraping and Survey data
 ![](IMAGES/toptrendsjpg.jpg)
 ## Introduction
 In order to keep pace with changing technologies and remain competitive, organizations regularly analyze data to help identify current technologies as well as future skill requirements.
