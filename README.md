@@ -61,10 +61,7 @@ Dashboard showing current technology usage![](IMAGES/TAB1.jpg)
 
 Dashboard showing future technology usage![](IMAGES/TAB2.jpg)
 
-A range of models were trained on the data and their performance assessed as seen in the bar graph above.
-The gradient boosting classifier and the Random forest model were the best performing classifers.
-Further analysis was performed to know which of them was the better model.The Random forest emerged as the slightly better model by comparing the performance of thier classification reports and confusion matrices. 
-The best performing model was saved for use in the streamlit application.
+To access all the dashboards on IBM cloud <a href="https://dataplatform.cloud.ibm.com/dashboards/ae87c5b9-0315-45aa-a793-45ab09ef70e0/view/7013a12a34f1179e73fcb1e407cc2a062866215ab6bb800bd3807b495c657797a86b1493c8794d53df440c65f1e8125998">Click_HERE</a>
 
 ## Model deployment
 Streamlit Application user interface![](IMAGES/streamlitapp.jpg)
