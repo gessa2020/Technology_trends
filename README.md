@@ -55,7 +55,7 @@ Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 - Redis supports abstract data types
 - Postgre databases is most likely to become very popular than MySQL in coming years
 
-# Sample Cognos dashbaords
+# Sample Cognos dashboards
 Dashboard showing current technology usage![](IMAGES/TAB1.jpg)
 
 Dashboard showing future technology usage![](IMAGES/TAB2.jpg)
