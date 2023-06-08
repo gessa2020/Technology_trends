@@ -59,7 +59,7 @@ Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 # Sample Cognos dashbaords
 Dashboard showing current technology usage![](IMAGES/TAB1.jpg)
 
-Dashboard showing current technology usage![](IMAGES/TAB2.jpg)
+Dashboard showing future technology usage![](IMAGES/TAB2.jpg)
 
 A range of models were trained on the data and their performance assessed as seen in the bar graph above.
 The gradient boosting classifier and the Random forest model were the best performing classifers.
