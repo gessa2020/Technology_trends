@@ -48,7 +48,7 @@ Graph showing Top 10 databases  currently in use![](IMAGES/Top10DatabasesCurrent
 Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 ### key take aways from the graphs above
 - MySQL most popular
-- Behind is Microsoft SQL
+- Microsoft SQL comes next in popularity after Mysql
 - MongoDB and Redis are upcoming favorites
 - New kid on the block: Elasticsearch
 - Open source databases are still preferable in companies
@@ -56,16 +56,8 @@ Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 - Redis supports abstract data types
 - Postgre databases is most likely to become very popular than MySQL in coming years
 
-
-
-
-
-2. Cluster 2 has the least average income of about 9.4k and has the least average age of 29 years. This can be a target cluster for bank products such as mortgage and credit card
-3. Cluster 0 has a moderate average income of about 9.7k and has the higest average age of 84 years. This can be a target cluster for bank products such as pension
-
-
-## Final model buiding and evaluation
-Model performance graph![](IMAGES/modal_image1.png)
+# Sample Cognos dashbaords
+Model performance graph![](IMAGES/TAB1.jpg)
 
 A range of models were trained on the data and their performance assessed as seen in the bar graph above.
 The gradient boosting classifier and the Random forest model were the best performing classifers.
