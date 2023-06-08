@@ -44,7 +44,8 @@ Graph showing salaries for different technologies![](IMAGES/salary_langauge.png)
 Graph showing different number of jobs by each technology across various selected cities![](IMAGES/job_lists.jpg)
 
 Graph showing Top 10 databases  currently in use![](IMAGES/Top10DatabasesCurrent.jpg)
-Having performed some statistics on the generated clusters, we can draw the following conclusions
+
+Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 
 2. Cluster 2 has the least average income of about 9.4k and has the least average age of 29 years. This can be a target cluster for bank products such as mortgage and credit card
 3. Cluster 0 has a moderate average income of about 9.7k and has the higest average age of 84 years. This can be a target cluster for bank products such as pension
