@@ -17,8 +17,8 @@ This project aim is therefore to carry out technology trend analysis which will 
 - I used IBM Cognos dashboard tool for visualization.
 
 ## Data sourcing
-We scrape data of  the **name of the programming language** and **average annual salary** from the <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html">URL</a>  provided by skills network labs. <br> 
-we there after write the scraped data into a csv file
+We scrape data of  the **name of the programming language** and **average annual salary** from the <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html">URL</a>  provided by skills network labs. 
+We then write the scraped data into a csv file
 
 We then use the <a href="https://developer.adzuna.com/">Adzuna API</a> to scrape data of number of technology jobs in some selected US cities and store them in an excel file 
 
