@@ -1,2 +1,2 @@
-# Technology_trends
-Technology trends analysis
+# Technology Trends Analysis
+## A project to analyze technology trends using data obtained from APIs, Web Scraping and Survey data
