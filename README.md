@@ -3,13 +3,15 @@
 ![](IMAGES/toptrendsjpg.jpg)
 ## Introduction
 In order to keep pace with changing technologies and remain competitive, organizations regularly analyze data to help identify current technologies as well as future skill requirements.
-This project aim is therefore to carry out technology trend analysis which will involve collecting data from various sources and there clean it up to make it suitable for the analysis.
+This project aim is therefore to carry out technology trend analysis which will start with collecting data from various sources and  clean it up to make it suitable for the analysis.
 
 ##  Problem statement 
-__How can we segment our customer base to improve cross-selling opportunities?__
+__what are the skill requirements for future?__
+__What are the top programming languages in demand?__
+__What are the top database skills in demand?__
+![image](https://github.com/gessa2020/Technology_trends/assets/52911013/4dcc9eea-baf2-4980-b2a7-c1344de8e672)
 
-<h3>Objective</h3> 
-To segment and analysis bank customers so as to understand the kind of clients a bank has which can then be used in developing profitable products that can generate more revenue to the bank. 
+ 
  
 <h4>Workflow</h4>
 From the historical data, we will first train a machine learning clustering  model on customer profile variables to come up with target groups also known as clusters, there after, we will then train a classification model that can predict which cluster a customer belongs to so as to tailor specific products to the client depending on the charactistics of the cluster.
