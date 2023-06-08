@@ -17,9 +17,14 @@ This project aim is therefore to carry out technology trend analysis which will 
 - I used IBM Cognos dashboard tool for visualization.
 
 ## Data sourcing
-I just wanted to get my hands dirty with customer segmentation, so i went to kaggle.com and and got my hands on to this  <a href="https://www.kaggle.com/datasets/sidharth178/customer-segmentation">Dataset</a> so as to practice my skills. 
- The sample Dataset summarizes the usage behavior of about nearly 1000 active credit card holders during the last 6 months. The file is at a customer level with 10 behavioral variables.
- These include:'Customer Id', 'Age', 'Edu', 'Years Employed', 'Income', 'Card Debt','Other Debt', 'Defaulted', 'DebtIncomeRatio'
+We scrape data of  the **name of the programming language** and **average annual salary** from the <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html">URL</a>  provided by skills network labs. <br> 
+we there after write the scraped data into a csv file
+
+We then use the <a href="https://developer.adzuna.com/">Adzuna API</a> to scrape data of number of technology jobs in some selected US cities and store them in an excel file 
+
+We also use the Stack Overflow Developer Survey 2019 data to create a dashboard with IBM Cognos visualization tool to visualize and present our analysis<br>
+Note:This randomised subset contains around 1/10th of the original data set.<br> Our Conclusions drawn after analyzing this subset may not reflect the real world scenario<br>
+To access this dataset from IBM cloud <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv">Click_HERE</a>
 
 ## Data transformation and cleaning.
 1.  I had to first drop the 'unnamed 0' column since it was not meaningful for our project.
