@@ -46,11 +46,17 @@ Graph showing different number of jobs by each technology across various selecte
 Graph showing Top 10 databases  currently in use![](IMAGES/Top10DatabasesCurrent.jpg)
 
 Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
-### key take aways from the graph above
+### key take aways from the graphs above
 - MySQL most popular
 - Behind is Microsoft SQL
 - MongoDB and Redis are upcoming favorites
 - New kid on the block: Elasticsearch
+- Open source databases are still preferable in companies
+- NoSQL databases will make an impact for storing non relational data
+- Redis supports abstract data types
+- Postgre databases is most likely to become very popular than MySQL in coming years
+
+
 
 
 
