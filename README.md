@@ -57,7 +57,9 @@ Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 - Postgre databases is most likely to become very popular than MySQL in coming years
 
 # Sample Cognos dashbaords
-Model performance graph![](IMAGES/TAB1.jpg)
+Dashboard showing current technology usage![](IMAGES/TAB1.jpg)
+
+Dashboard showing current technology usage![](IMAGES/TAB2.jpg)
 
 A range of models were trained on the data and their performance assessed as seen in the bar graph above.
 The gradient boosting classifier and the Random forest model were the best performing classifers.
