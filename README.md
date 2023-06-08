@@ -6,9 +6,9 @@ In order to keep pace with changing technologies and remain competitive, organiz
 This project aim is therefore to carry out technology trend analysis which will start with collecting data from various sources and  clean it up to make it suitable for the analysis.
 
 ##  Problem statement 
-__what are the skill requirements for future?__
-__What are the top programming languages in demand?__
-__What are the top database skills in demand?__
+ __what are the skill requirements for future?__
+ __What are the top programming languages in demand?__
+ __What are the top database skills in demand?__
 
 
  
