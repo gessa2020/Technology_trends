@@ -27,8 +27,8 @@ Note:This randomised subset contains around 1/10th of the original data set.<br>
 To access this dataset from IBM cloud <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv">Click_HERE</a>
 
 ## Data transformation and cleaning.
-1.  I had to first drop the 'unnamed 0' column since it was not meaningful for our project.
-3.  There was some missing data in the defaulted variable, so i filled it in with the median for that column.
+1.  The survey dataset goes through various cleaning processes before being visualized in the IBM Cognos tool.
+2.  Data from both the Api and scraped web page also undergoes cleaning and reformating before being visualized.
 
 ## Data analysis and visualization
 Graph showing distribution of individual numerical variables![](IMAGES/Histogram_image1.png)
