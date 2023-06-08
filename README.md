@@ -63,14 +63,13 @@ Dashboard showing future technology usage![](IMAGES/TAB2.jpg)
 
 To access all the dashboards on IBM cloud <a href="https://dataplatform.cloud.ibm.com/dashboards/ae87c5b9-0315-45aa-a793-45ab09ef70e0/view/7013a12a34f1179e73fcb1e407cc2a062866215ab6bb800bd3807b495c657797a86b1493c8794d53df440c65f1e8125998">Click_HERE</a>
 
-## Model deployment
-Streamlit Application user interface![](IMAGES/streamlitapp.jpg)
-
 ## Conclussion
+- With AI and ML in rising demand, Python is the language to look out for because of it’s vast libraries and ecosystem.
+- Open source databases are here to stay with us for all forms of tabular data
+- NoSQL databases are the standard for unstructured data
+- Big Data technology in companies still requires SQL
 
-1. The clusters generated give us some useful information about our customer base such as their average income,
-   age,debt to income ratio, education and years employed. 
-2. We can use the statistics about these clusters to know where each customer belongs to.
-3. With this information, we can then be able to tailor our bank products such as savings, loans, mortgage
-   credit card to specific customers depending on the cluster they belong to for better performance of marketing     campaigns.
+
+
+
 
