@@ -41,7 +41,7 @@ Graph showing salaries for different technologies![](IMAGES/salary_langauge.png)
 - The swift language had the highest annual salary followed by Python, C++, Javascript, Java and then Go
 - Apart from Java creating the most job opportunities, it does not top the table of the highest annual salaries but it takes the 5th position
 
-Graph showing different number of technologies by selected cities![](IMAGES/List of jobs by language.jpg)
+Graph showing different number of jobs by each technology across various selected cities![](IMAGES/job_lists.jpg)
 
 Graph showing cluster analysis with data![](IMAGES/clusterstat.jpg)
 Having performed some statistics on the generated clusters, we can draw the following conclusions
