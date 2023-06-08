@@ -51,7 +51,7 @@ Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 - MongoDB and Redis are upcoming favorites
 - New kid on the block: Elasticsearch
 - Open source databases are still preferable in companies
-- NoSQL databases will make an impact for storing non relational data
+- NoSQL databases are must have databasese for storing non relational data
 - Redis supports abstract data types
 - Postgre databases is most likely to become very popular than MySQL in coming years
 
