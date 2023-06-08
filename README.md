@@ -31,7 +31,7 @@ To access this dataset from IBM cloud <a href="https://cf-courses-data.s3.us.clo
 2.  Data from both the Api and scraped web page also undergoes cleaning and reformating before being visualized.
 
 ## Data analysis and visualization
-Graph showing distribution of individual numerical variables![](IMAGES/Histogram_image1.png)
+Graph showing number of technology jobs![](IMAGES/tech_jobs.png)
 ### key take ways from the plot above
 - The average age of clients is about 35 years with the age distribution being fairly skewed to the right
 - Income and Card Debt are highly skewed to the right
