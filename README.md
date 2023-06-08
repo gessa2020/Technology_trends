@@ -2,8 +2,7 @@
 ## A project to analyze technology trends using data obtained from an API, Web Scraping and Survey data
 ![](IMAGES/toptrendsjpg.jpg)
 ## Introduction
-In order to keep pace with changing technologies and remain competitive, organizations regularly analyze data to help identify current technologies as well as future skill requirements.
-This project aim is therefore to carry out technology trend analysis which will start with collecting data from various sources and  clean it up to make it suitable for the analysis.
+To stay ahead in today's fast-paced technological landscape, organizations must constantly analyze data to identify current and future skill requirements. This project aims to conduct a comprehensive technology trend analysis by collecting data from various sources and cleaning it up for analysis. By doing so, we hope to provide valuable insights that will help organizations remain competitive and adapt to changing technologies.
 
 ##  Problem statement 
 1. __What are the skill requirements for future?__
@@ -12,12 +11,12 @@ This project aim is therefore to carry out technology trend analysis which will 
  
  
 ## Skills demonstrated.
-- I used python for web scrapping and data retrival from api
+- I used python and its associated libraries for web scrapping and data retrival from an api
 - I used jupyter notebooks and vscode as IDEs for the project
 - I used IBM Cognos dashboard tool for survey data visualization.
 
 ## Data sourcing
-We scrape data of  the **name of the programming language** and **average annual salary** from the <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html">URL</a>  provided by skills network labs. 
+We scrape data of the **name of the programming language** and **average annual salary** from the <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html">URL</a>  provided by skills network labs. 
 We then write the scraped data into an csv file
 
 We then use the <a href="https://developer.adzuna.com/">Adzuna API</a> to scrape data of number of technology jobs in some selected US cities and store them in an excel file 
