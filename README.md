@@ -2,7 +2,8 @@
 ## A project to analyze technology trends using data obtained from APIs, Web Scraping and Survey data
 ![](IMAGES/toptrendsjpg.jpg)
 ## Introduction
-Customer segmentation is one of those important aspects that a business has to carefully consider before formulating products or services to it's customer base. Therefore pitching the right message to the right customer and at the right time has been the objective for all banks.Banks look at customer segmentation to gain insight, on how to decide on specific offers, improve customer service, and understand customer behaviour & more. The success or failure of a marketing campaign depends on how customers are segmented. Based on the customer segmentation, banks unleash product recommendations like saving plans, loans, wealth management, etc. on target customer groups.
+In order to keep pace with changing technologies and remain competitive, organizations regularly analyze data to help identify current technologies as well as future skill requirements.
+This project aim is therefore to carry out technology trend analysis which will involve collecting data from various sources and there clean it up to make it suitable for the analysis.
 
 ##  Problem statement 
 __How can we segment our customer base to improve cross-selling opportunities?__
