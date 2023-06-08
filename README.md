@@ -44,7 +44,7 @@ Graph showing different number of technologies by selected cities![](IMAGES/List
 
 Graph showing cluster analysis with data![](IMAGES/clusterstat.jpg)
 Having performed some statistics on the generated clusters, we can draw the following conclusions
-1. Cluster 1 has the highest average income of about 13k and average age of 46 years.This can be considerd as a high value target cluster for banking products such as loans and savings.
+
 2. Cluster 2 has the least average income of about 9.4k and has the least average age of 29 years. This can be a target cluster for bank products such as mortgage and credit card
 3. Cluster 0 has a moderate average income of about 9.7k and has the higest average age of 84 years. This can be a target cluster for bank products such as pension
 
